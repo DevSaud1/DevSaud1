@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevSaud1
+- 👀 I’m interested in Software develpoment
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on java or python projects
+- 📫 How to reach me saud.aldajani8@gmail.com
